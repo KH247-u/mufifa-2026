@@ -87,7 +87,6 @@
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 <img width="300" height="180" alt="rank" src="https://github.com/user-attachments/assets/d25b9580-36a5-418c-80d4-545575d6380c" />
 </img>
-
 ```
 
 
